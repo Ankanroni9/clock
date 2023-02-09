@@ -1,2 +1,2 @@
 # clock
-It's just a clock
+I am a clock!
